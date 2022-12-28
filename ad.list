@@ -1,3 +1,16 @@
+DOMAIN-KEYWORD,.estream.
+DOMAIN-KEYWORD,jshosting
+DOMAIN-KEYWORD,hostingcloud
+DOMAIN-KEYWORD,flightsy
+DOMAIN-KEYWORD,zymerget
+DOMAIN-KEYWORD,gettate
+DOMAIN-KEYWORD,mighbest
+DOMAIN-KEYWORD,nimiqpool
+DOMAIN-KEYWORD,.freecontent.
+DOMAIN-KEYWORD,sunnimiq
+DOMAIN-KEYWORD,.nimiq.
+DOMAIN-KEYWORD,anybest.
+DOMAIN-KEYWORD,dubester.
 DOMAIN-KEYWORD,track.tiara
 DOMAIN-KEYWORD,adservice
 DOMAIN-KEYWORD,umeng
@@ -19,6 +32,9 @@ DOMAIN-KEYWORD,marketing.net
 AND,((DOMAIN-KEYWORD,f-log), (DOMAIN-SUFFIX,grammarly.io))
 DOMAIN,stun.smartgslb.com
 AND,((DOMAIN-SUFFIX,prod.hosts.ooklaserver.net), (DOMAIN-KEYWORD,.ad.))
+DOMAIN-SUFFIX,duckdns.org
+DOMAIN-SUFFIX,gofenews.com
+DOMAIN-SUFFIX,jemonews.com
 DOMAIN-KEYWORD,_vmind.qqvideo.tc.qq.com
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-spiky.clevertap-prod.com
