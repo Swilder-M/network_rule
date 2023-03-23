@@ -36,6 +36,11 @@ DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,gofenews.com
 DOMAIN-SUFFIX,jemonews.com
 DOMAIN-KEYWORD,_vmind.qqvideo.tc.qq.com
+DOMAIN,adsmind.apdcdn.tc.qq.com
+DOMAIN,wxsnsad.tc.qq.com
+DOMAIN,vmindhls.tc.qq.com
+DOMAIN,wxa.wxs.qq.com
+DOMAIN,wxsnsdythump.wxs.qq.com
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-spiky.clevertap-prod.com
 DOMAIN-SUFFIX,openx.net
@@ -57,7 +62,7 @@ DOMAIN-SUFFIX,ut.taobao.com
 DOMAIN,adashbc.ut.taobao.com
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,sdk.e.qq.com
-DOMAIN-SUFFIX,v.gdt.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,bayescom.com
 DOMAIN-SUFFIX,bayescom.cn
 DOMAIN-SUFFIX,hectorstatic.baidu.com
@@ -69,4 +74,9 @@ DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,dm.toutiao.com
 DOMAIN-SUFFIX,adsmind.ugdtimg.com
+DOMAIN-SUFFIX,pgdt.ugdtimg.com
+DOMAIN-SUFFIX,union.gdtimg.com
+DOMAIN-SUFFIX,qzs.gdtimg.com
+DOMAIN-SUFFIX,public.gdtimg.com
 DOMAIN-SUFFIX,log.umsns.com
+DOMAIN-SUFFIX,dm.pstatp.com
